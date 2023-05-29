@@ -1,0 +1,6 @@
+Desarrollar un programa que gestione los pedidos que llegan a un almacén desde las diferentes tiendas a las que suministra.
+El suministro se realiza por orden de llegada de cada pedido y no se puede trabajar en un pedido sin haber finalizado
+el correspondiente.
+
+Cada pedido contendrá información sobre el cliente que lo ha realizado y los productos que se han solicitado (tipo y cantidad).
+Los mismos productos pueden solicitarse en varios pedidos por diferentes clientes. Implementar el TAD más apropiado.
